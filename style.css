@@ -1,0 +1,7 @@
+.admin_table{
+	width: 100%;
+}
+th, td{
+	text-align: left;
+	padding-bottom: 5px;
+}
